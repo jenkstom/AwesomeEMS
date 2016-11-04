@@ -1,5 +1,5 @@
 # Awesome EMS
-A collection of open source resources around the internet related to Emergency Medical Services
+A collection of open source resources around the internet related to Emergency Medical Services. This is mostly about software, hardware or protocols, but there are some educational resources as well.
 
 ## Dispatch
 
