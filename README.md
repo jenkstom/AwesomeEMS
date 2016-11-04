@@ -25,7 +25,10 @@ A collection of open source resources around the internet related to Emergency M
 * This isn't really open source, but it's the future of EMS data - [NEMSIS](http://www.nemsis.org/index.html).
 * [OpenEMR](http://www.open-emr.org) is a healthcare medical record system aimed at clinics and hospitals, but has some interesting features.
 * [OpemMRS](http://openmrs.org/) is another open-source medical record system.
+* [FreeMedForms](https://github.com/FreeMedForms/freemedforms) another fairly large project for electronic health records. C++/Qt.
 
-** Apps
+There are a *lot* of EHR/EMR systems out there. I'm not going to list them all, but [here](http://www.ourmed.org/wiki/List_of_open_source_healthcare_software) is a really large list.
+
+## Apps
 
 * [epmobile](https://github.com/mannd/epmobile) is an open source app aimed at electrophysiology.
