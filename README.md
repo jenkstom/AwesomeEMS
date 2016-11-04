@@ -6,11 +6,13 @@ A collection of open source resources around the internet related to Emergency M
 * A ruby-based dispatch system called [skycad](https://github.com/shakycode/skycad).
 * A really old (2009) web-based dispatch system called [WebEMS](http://webems.sourceforge.net/). 
 * [OpenISES](https://sourceforge.net/projects/openises/?source=navbar), another old project. The website claims there is an attempt to revive it, and the latest tarball is dated August, 2016. 
+* The [Medic Mobile](https://github.com/medic) project is meant to help coordinate activities in areas where there is only SMS available.
 
 ## Dynamic Deployment
 
 * A [research project](https://github.com/4rdhendu/Ambulance-multi-agent-planning) about optimizing ambulance assignment. The paper and code are available.
 * A [simple system](https://github.com/ViditIsOnline/SLOR_Back) for visualizing placement of ambulances.
+* [traccar](https://www.traccar.org/) has open source apps for android and iOS. It could be used to track ambulance personnel.
 
 ## Study and Education
 
@@ -20,4 +22,10 @@ A collection of open source resources around the internet related to Emergency M
 
 ## Data
 
-* This isn't really open source, but it's the future of EMS data - [NEMSIS](http://www.openhealthnews.com/content/national-ems-information-system-nemsis).
+* This isn't really open source, but it's the future of EMS data - [NEMSIS](http://www.nemsis.org/index.html).
+* [OpenEMR](http://www.open-emr.org) is a healthcare medical record system aimed at clinics and hospitals, but has some interesting features.
+* [OpemMRS](http://openmrs.org/) is another open-source medical record system.
+
+** Apps
+
+* [epmobile](https://github.com/mannd/epmobile) is an open source app aimed at electrophysiology.
