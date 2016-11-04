@@ -23,12 +23,29 @@ A collection of open source resources around the internet related to Emergency M
 ## Data
 
 * This isn't really open source, but it's the future of EMS data - [NEMSIS](http://www.nemsis.org/index.html).
-* [OpenEMR](http://www.open-emr.org) is a healthcare medical record system aimed at clinics and hospitals, but has some interesting features.
-* [OpemMRS](http://openmrs.org/) is another open-source medical record system.
-* [FreeMedForms](https://github.com/FreeMedForms/freemedforms) another fairly large project for electronic health records. C++/Qt.
+* [PhysioNet](http://www.physionet.org/) has recorded physiological data for that deep learning ECG simulator you always wanted to write. PhysioNet also has a list of software you can use for various kinds of data. If you need a program to detect apnea waveforms or QRS waves, you might just find it here.
 
-There are a *lot* of EHR/EMR systems out there. I'm not going to list them all, but [here](http://www.ourmed.org/wiki/List_of_open_source_healthcare_software) is a really large list.
+There are a *lot* of EHR/EMR systems out there. I'm not going to list them, but [here](http://www.ourmed.org/wiki/List_of_open_source_healthcare_software) is a really large list.
 
 ## Apps
 
 * [epmobile](https://github.com/mannd/epmobile) is an open source app aimed at electrophysiology.
+
+## Devices
+
+* [Zephyr Open](https://code.google.com/archive/p/zephyropen/) is a Java library for communicating with "BlueTooth Physiological Sensors".
+* The Linux Anasthesia Modular Devices Interface ([lamdi](gasnet.med.yale.edu/lamdi/)) sounds interesting, but the site seems to be down.
+
+## GIS
+
+* [Quantum GIS](qgis.org) is a very useful tool for all sorts of geospatial work.
+* [PostGIS](postgis.net) is an add-on module for the most excellent [PostgreSQL](postgresql.org) database server that provides geospatial capabilities for PostgreSQL.
+* [pgRouting](pgrouting.org) is another PostgreSQL add-on that enables all sorts of routing features. Works with [Open Street Maps](openstreetmap.org) data and has some extremely useful features for EMS planning.
+
+
+
+
+## Other
+
+* [OpenMedSpel](https://www.openhub.net/p/openmedspel) is a medical spelling checker. There is a firefox addon, but this open source project appears to be a server of some kind.
+
