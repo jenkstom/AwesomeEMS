@@ -1,7 +1,7 @@
 # Awesome EMS
 A collection of open source resources around the internet related to Emergency Medical Services
 
-## Dispatch Software
+## Dispatch
 
 * A ruby-based dispatch system called [skycad](https://github.com/shakycode/skycad).
 * A really old (2009) web-based dispatch system called [WebEMS](http://webems.sourceforge.net/). 
@@ -19,6 +19,8 @@ A collection of open source resources around the internet related to Emergency M
 * A [simple system](https://github.com/ViditIsOnline/SLOR_Back) for visualizing placement of ambulances.
 * The [Free Open Access to Medical EDucation](http://lifeinthefastlane.com/collections/) project brings together medical educational information. There is also a [Search Engine](http://googlefoam.com) and a [twitter hashtag](https://twitter.com/hashtag/foamed), and [several](https://twitter.com/hashtag/foampara) [other](https://twitter.com/hashtag/foamcc) [EMS-oriented](https://twitter.com/hashtag/foamems) versions of the hashtag as well.
 * Every Paramedic has likely already found [ecgpedia](http://en.ecgpedia.org), but here it is anyway.
+* [EMD Cards](http://www.tablonenblanco.com/Ticket/emd_cards/EMD_Card_Version_0.26.2.pdf) is a freely available emergency medical dispatch guidebook. Obviously you're gonna want to run that one by medical control first.
+* [emsprotocols.org](http://www.emsprotocols.org/) is a website that attempts to keep up with the latest and greatest protocols that are available online.
 
 ## Data
 
