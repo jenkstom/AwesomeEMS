@@ -45,8 +45,6 @@ There are a *lot* of EHR/EMR systems out there. I'm not going to list them, but 
 * [pgRouting](pgrouting.org) is another PostgreSQL add-on that enables all sorts of routing features. Works with [Open Street Maps](openstreetmap.org) data and has some extremely useful features for EMS planning.
 
 
-
-
 ## Other
 
 * [OpenMedSpel](https://www.openhub.net/p/openmedspel) is a medical spelling checker. There is a firefox addon, but this open source project appears to be a server of some kind.
