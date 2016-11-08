@@ -46,6 +46,10 @@ There are a *lot* of EHR/EMR systems out there. I'm not going to list them, but 
 * [PostGIS](postgis.net) is an add-on module for the most excellent [PostgreSQL](postgresql.org) database server that provides geospatial capabilities for PostgreSQL.
 * [pgRouting](pgrouting.org) is another PostgreSQL add-on that enables all sorts of routing features. Works with [Open Street Maps](openstreetmap.org) data and has some extremely useful features for EMS planning.
 
+## Developer Information
+
+* Mobile apps for first responders should conform to the [Mobile Applications for Public Safety](https://www.dhs.gov/maps) guidelines.
+
 
 ## Other
 
