@@ -22,6 +22,7 @@ A collection of open source resources around the internet related to Emergency M
 * Every Paramedic has likely already found [ecgpedia](http://en.ecgpedia.org), but here it is anyway.
 * [EMD Cards](http://www.tablonenblanco.com/Ticket/emd_cards/EMD_Card_Version_0.26.2.pdf) is a freely available emergency medical dispatch guidebook. Obviously you're gonna want to run that one by medical control first.
 * [emsprotocols.org](http://www.emsprotocols.org/) is a website that attempts to keep up with the latest and greatest protocols that are available online.
+* [Vital Sign Simulator](https://sourceforge.net/projects/vitalsignsim/) can be used to "fake" a lifepack for simulations with a dummy.
 
 ## Data
 
